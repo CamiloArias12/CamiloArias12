@@ -4,7 +4,7 @@ I'm a systems engineering.
 ## Languajes and tools. 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,go,astro,next,react,flutter,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,python,go,astro,next,react,flutter,nodejs,nestjs" />
   </a>
 </p>
 
